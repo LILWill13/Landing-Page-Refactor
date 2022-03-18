@@ -25,4 +25,5 @@ Task - refactor a landing page to meet cirtian criteria.
 
 ![bottom half of webpage](./pics/Screen%20Shot%202022-03-18%20at%203.30.07%20PM%20Small.png)
 
-visit webiste  
+visit webiste:
+https://lilwill13.github.io/homework1/
